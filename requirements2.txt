@@ -7,3 +7,4 @@ psycopg2==2.7.6.1 yes
 pytz==2018.7 yes
 virtualenv==16.1.0 yes
 websockets==3.4 yes
+psycopg2-binary==2.7.4
